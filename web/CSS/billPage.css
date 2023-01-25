@@ -1,0 +1,27 @@
+body{
+    background-color: #6BC4B2;
+}
+.logout{
+    float: right;
+    margin-right: 150px;
+}
+h1{
+    margin-left: 21%;
+}
+h3{
+    margin-left: 23%;
+}
+
+table{
+    margin-left: 24%;
+}
+
+.rent{
+    margin-left: 24%;
+}
+.rentCar{
+    margin-left: 24%;
+}
+.add{
+    margin-left: 40%;
+}

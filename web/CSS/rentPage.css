@@ -1,0 +1,86 @@
+body{
+    background-color: #6BC4B2;
+}
+.logout{
+    float: right;
+    margin-right: 150px;
+}
+h1{
+    margin-left: 35%;
+    float: left;
+}
+
+.main-layout {
+    margin-left: 30%;
+}
+
+.main-layout .name{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 16px;
+}
+
+.main-layout .category{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 9px;
+}
+.main-layout .rentalDate{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 14px;
+}
+.main-layout .returnDate{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 14px;
+}
+.main-layout .amount{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 14px;
+}
+.main-layout .search{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 200px;
+}
+.main-layout .view{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+h3{
+    margin-left: 40%;
+    
+}
+.car-layout{
+    width: 360px;
+    height: 530px;
+    border: 1px solid;
+    float: left;
+    margin-left: 62px;
+    margin-right: 60px;
+    margin-bottom: 50px;
+}
+.car-layout h5{
+    margin-left: 20%;
+}
+.car-layout .add{
+    margin-left: 42%;
+}
+.car-layout img{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.car-layout div{
+    margin-bottom: 100px;
+}
+
+
